@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/career-guidence-app/static/css/main.72fb2fa8.css",
+    "main.js": "/career-guidence-app/static/js/main.b887a819.js",
+    "static/js/787.0819484c.chunk.js": "/career-guidence-app/static/js/787.0819484c.chunk.js",
+    "index.html": "/career-guidence-app/index.html",
+    "main.72fb2fa8.css.map": "/career-guidence-app/static/css/main.72fb2fa8.css.map",
+    "main.b887a819.js.map": "/career-guidence-app/static/js/main.b887a819.js.map",
+    "787.0819484c.chunk.js.map": "/career-guidence-app/static/js/787.0819484c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72fb2fa8.css",
+    "static/js/main.b887a819.js"
+  ]
+}
